@@ -3,7 +3,7 @@ A python program to solve Sudoku!
 
 #### Input format
 - Numbers in a row should be seperated by space
-- Numbers in a column shiuld be seperated by a newline 
+- Numbers in a column should be seperated by a newline 
 - Unidentified numbers should be denoted by 0
 - See the 'test' file for sample input
   
